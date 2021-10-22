@@ -16,7 +16,7 @@ example, the girlnames.txt file begins with
  
  Emma 22532 
  
- This indicates that Emily is the most popular name with 25,494 registered namings, Emma is the second most popular with 22,532, and so on. 
+ This indicates that Emily is the most popular name with 25,494 registered namings, Emma is the second most popular with 22,532, and so on. 
  Write a program that determines how many names are on both the boys’ and 
 the girls’ list. Use the following algorithm: 
 
